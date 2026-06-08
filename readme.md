@@ -6,6 +6,7 @@
     <img alt="Flake Keyboard Poster" width="100%" src="./docs/img/poster/flake_poster(1:2)_1920p.webp">
     <h3>Anywhy Flake</h3>
     <p><i>An open-source, wireless, split ergonomic keyboard designed to be productive, healthy, and enjoyable.</i></p>
+    <p><i>Slightly modified fork, including "magsafe" compatibility, printed foot-recess supports (and printed TPU feet). Optimised for PCTG.</i></p>
     <p>
         <a href="https://github.com/anywhy-io/flake/stargazers"><img src="https://img.shields.io/github/stars/anywhy-io/flake?style=for-the-badge&color=black" alt="GitHub Stars"></a>
         <a href="https://github.com/anywhy-io/flake/blob/main/LICENSE"><img src="https://img.shields.io/github/license/anywhy-io/flake?style=for-the-badge&color=black" alt="License"></a>
