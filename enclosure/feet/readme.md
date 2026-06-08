@@ -1,0 +1,5 @@
+Decent quality adhesive-backed rubber feet typically have a high quality PSA backing, which can bond well to high-energy surfaces like a PLA print, however these can be ineffective with low-energy plastics like PCTG, PP, POM, PA, etc. This means that if one hopes to use a higher quality material for their flake enclosure (that won't melt if left in a car on a sunny day), they might struggle to keep rubber feet adhered.
+
+Additionally, for such a beautifully designed enclosure as exhibited with the flake, it seems a shame to use generic rubber feet that don't quite fit the design. I also just don't have any on hand, but do have plenty of TPU, so opted to print my own non-slip feet. Using TPU (another low-surface-energy plastic) makes adhering even harder, so the flake enclosure bottom plate in the magsafe dir (only L for now) is designed to retain the feet physically.
+
+The TPU feet have a raised nub, which extend through a hole in the bottom of the foot-recess. The reverse side of this hole is chamfered, to allow for the excess TPU shaft material to be melted and pressed flat, filling the chamfer and forming a "rivet".
