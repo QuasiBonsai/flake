@@ -1,1 +1,1 @@
-
+Make sure you use non-magnetic ferrous adapter rings. You don't want to embed strong magnets in the bottom of your keyboard, especially if you envision using it on top of a laptop keyboard for example. If adjusting the ring recess to match a different sized adapter ring, make sure the ring still protrudes at least 0.2mm from the bottom surface, to ensure direct contact with a magsafe stand.
